@@ -92,7 +92,6 @@ function draw() {
     triangle(125, 515, 173, 515, 149, 460); 
     triangle(132, 470, 166, 470, 149, 425); 
 
-
   //casa2 
     //mura
     fill(160, 110, 70);
